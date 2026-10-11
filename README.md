@@ -1,4 +1,4 @@
-# Prakriti Mitr (प्रकृति मित्र) / CropPulse
+# CropPulse
 ### Weather-Aware Groundwater Resilience & Agronomic Decision Cockpit
 
 > **Environmental Hacks 2026 — Bharat Builds Tour (Event 02)**  
@@ -24,7 +24,7 @@ In India, **over 80% of freshwater withdrawal is consumed by agriculture**, prim
 
 Existing agricultural apps act as passive weather graphs or theoretical crop calculators that demand farmers apply water without checking if water reserves exist or if effective rain is incoming.
 
-**Prakriti Mitr** transforms raw meteorological data and agronomic soil physics into **actionable, human-grade decisions** with quantified environmental savings and multilingual voice companionship.
+**CropPulse** transforms raw meteorological data and agronomic soil physics into **actionable, human-grade decisions** with quantified environmental savings and multilingual voice companionship.
 
 ---
 
@@ -72,7 +72,7 @@ Existing agricultural apps act as passive weather graphs or theoretical crop cal
 
 ## 4. Key Differentiators vs. Existing Solutions
 
-| Feature | Standard Agri-Apps / Crop Calculators | Prakriti Mitr (CropPulse) |
+| Feature | Standard Agri-Apps / Crop Calculators | CropPulse |
 | :--- | :--- | :--- |
 | **Calculation Model** | Pure theoretical crop thirst ($ET_c$) | **Dual-Engine**: Balances crop thirst against usable storage volume, replenishment timing, and irrigation method efficiency |
 | **Effective Rain Infiltration** | Flat monthly estimates or raw rainfall totals | **Daily Soil Water Balance**: Infiltration capped by actual root-zone deficit ($D_r$), excess goes to runoff |

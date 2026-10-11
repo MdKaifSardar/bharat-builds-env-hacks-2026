@@ -70,7 +70,7 @@ export function Header({
               className="flex items-center gap-2.5 text-left cursor-pointer group"
             >
               <div className="h-9 w-9 rounded-xl overflow-hidden flex items-center justify-center shrink-0 shadow-xs border border-emerald-500/30 bg-white dark:bg-[#0D2232] p-0.5">
-                <img src="/icon.png" alt="Prakriti Mitr Logo" className="w-full h-full object-contain" />
+                <img src="/icon.png" alt="CropPulse Logo" className="w-full h-full object-contain" />
               </div>
               <div>
                 <div className="flex items-center gap-1.5">

@@ -60,11 +60,11 @@ export function ConsoleHeader({
         {/* Mobile Minimal Brand Header */}
         <div className="md:hidden flex items-center gap-2 min-w-0">
           <div className="w-7 h-7 rounded-lg overflow-hidden flex items-center justify-center shrink-0 shadow-xs border border-emerald-500/30 bg-white dark:bg-[#071724] p-0.5">
-            <img src="/icon.png" alt="Prakriti Mitr" className="w-full h-full object-contain" />
+            <img src="/icon.png" alt="CropPulse" className="w-full h-full object-contain" />
           </div>
           <span className="font-bold text-sm text-slate-900 dark:text-[#F0F9FF] truncate font-['Outfit']">
             {currentView === 'profile' 
-              ? 'Prakriti Mitr' 
+              ? 'CropPulse' 
               : currentView === 'fields' 
               ? t.myFieldsDirectory 
               : currentView === 'register-field'
@@ -82,7 +82,7 @@ export function ConsoleHeader({
             onClick={() => onNavigate('profile')}
             className="hover:text-sky-600 dark:hover:text-[#38BDF8] font-bold text-slate-800 dark:text-[#F0F9FF] flex items-center gap-1.5 transition-colors shrink-0 cursor-pointer"
           >
-            <span>Prakriti Mitr</span>
+            <span>CropPulse</span>
           </button>
 
           <ChevronRight className="w-3.5 h-3.5 text-slate-400 dark:text-[#1E4765] shrink-0" />

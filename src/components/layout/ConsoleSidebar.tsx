@@ -70,11 +70,11 @@ export function ConsoleSidebar({
             <div className="flex items-center justify-between w-full min-w-0">
               <div className="flex items-center gap-2.5 min-w-0">
                 <div className="w-8 h-8 rounded-lg overflow-hidden flex items-center justify-center shrink-0 shadow-xs border border-emerald-500/30 bg-white dark:bg-[#071724] p-0.5">
-                  <img src="/icon.png" alt="Prakriti Mitr" className="w-full h-full object-contain" />
+                  <img src="/icon.png" alt="CropPulse" className="w-full h-full object-contain" />
                 </div>
                 <div className="truncate">
                   <span className="font-bold text-sm tracking-tight text-slate-900 dark:text-[#F0F9FF] block leading-tight font-['Outfit'] truncate">
-                    Prakriti Mitr
+                    CropPulse
                   </span>
                   <span className="text-[10px] font-semibold text-sky-600 dark:text-[#38BDF8] uppercase tracking-widest leading-none block">
                     Irrigation Console
@@ -98,7 +98,7 @@ export function ConsoleSidebar({
               className="w-10 h-10 mx-auto rounded-lg overflow-hidden flex items-center justify-center shadow-xs border border-emerald-500/30 bg-white dark:bg-[#071724] hover:opacity-90 transition-opacity cursor-pointer shrink-0 p-1"
               title="Expand Sidebar"
             >
-              <img src="/icon.png" alt="Prakriti Mitr" className="w-full h-full object-contain" />
+              <img src="/icon.png" alt="CropPulse" className="w-full h-full object-contain" />
             </button>
           )}
         </div>
@@ -329,7 +329,7 @@ export function ConsoleSidebar({
                     <Sprout className="w-3.5 h-3.5" />
                   </div>
                   <span className="font-bold text-xs uppercase tracking-wider text-sky-600 dark:text-[#38BDF8] font-['Outfit']">
-                    Prakriti Mitr
+                    CropPulse
                   </span>
                 </div>
                 <button
